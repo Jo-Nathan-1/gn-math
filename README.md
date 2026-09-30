@@ -1,1 +1,1 @@
-https://jo-nathan-1.github.io/gn-math/emulator
+https://jo-nathan-1.github.io/gn-math/emulator.html
